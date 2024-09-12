@@ -11,8 +11,10 @@ A [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencin
  - Also available from [precisionFDA]()
 
 **Provided gVCF:** [missyvonne.gvcf.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz)
+ - Also available from [precisionFDA]()
 
 **Index for Provided gVCF:** [missyvonne.gvcf.gz.tbi](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz.tbi)
+ - Also available from [precisionFDA]()
 
 ## Processed Intermediate Files
 
@@ -21,3 +23,5 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 *Kraken2* output files for 2 libraries for my cat (Bastu) can be found [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Kraken-OUT).
 
 ## Additional Files
+
+*create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl* - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads (and the code was modified to keep that information).
