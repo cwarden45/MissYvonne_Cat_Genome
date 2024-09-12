@@ -24,4 +24,4 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 ## Additional Files
 
-*create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl* - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads (and the code was modified to keep that information).
+**create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl** - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads (and the code was modified to keep that information).
