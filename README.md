@@ -29,3 +29,7 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 `create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl` - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads for Miss Yvonne (and the code was modified to keep that information).
 
 `combine_reads.sh` - script used to combine reads from 2 libraries (still separated for forward *R1* reads and reverse *R2* reads).
+
+`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu:
+
+An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).
