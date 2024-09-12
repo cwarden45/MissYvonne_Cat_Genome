@@ -32,4 +32,6 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 `ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu:
 
+![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "fastp-filtered assignments")
+
 An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).
