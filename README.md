@@ -36,8 +36,14 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 `combine_reads.sh` - script used to combine reads from 2 libraries (still separated for forward *R1* reads and reverse *R2* reads).
 
-`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu:
+`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu (for the custom reference):
 
-![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "fastp-filtered assignments")
+![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
+
+An earlier heatmap (also including human samples) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/n6_Oral_Bowtie2-heatmap.PNG)
+
+`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu (for *Kraken2* assignments):
+
+![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Kraken2 assignments")
 
 An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).
