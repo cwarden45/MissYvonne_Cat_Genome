@@ -26,6 +26,14 @@ The *fastp*-trimmed reads have not directly been uploaded.  However, the output 
 
 Similar files for *fastp* for Bastu (as well as for human reads for myself) can be found [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results).  Files matching Miss Yvonne's data were created using `run_fastp-AltParam2.sh`.
 
+**Filtered .bam Alignment File (only for bacterial and viral sequences) :** [Basepaws_MissYvonne.bacteria.bam](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne.bacteria.bam)
+
+**Index for Filtered .bam Alignment File (only for bacterial and viral sequences) :** [Basepaws_MissYvonne.bacteria.bam.bai](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne.bacteria.bam.bai)
+
+**Bacterial and Viral Quantification using `samtools idxstats` :** [Basepaws_MissYvonne_idxstats.txt](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne_idxstats.txt)
+
+**Alignment Statistics from *Picard* `MarkDuplicates` :** [Basepaws_MissYvonne_MarkDuplicates_BWA_MEM_metrics.txt](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne_MarkDuplicates_BWA_MEM_metrics.txt)
+
 Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for 2 libraries for my cat (Bastu) can be found [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/Extended_Reference-2024).  Files matching Miss Yvonne's data were created using `run_BWA-MEM_PE.py`.
 
 *Kraken2* output files (**after** *fastp* trmming) for 2 libraries for my cat (Bastu) can be found [here]([https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Kraken-OUT](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Kraken-OUT).  The new sample for Miss Yvonne was also processed using `run_Kracken2_Bracken-FASTQ-PE.py` (with the earlier version [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/run_Kracken2_Bracken-FASTQ-PE.py)).
