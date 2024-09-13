@@ -30,6 +30,8 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 *Kraken2* output files (**after** *fastp* trmming) for 2 libraries for my cat (Bastu) can be found [here]([https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Kraken-OUT](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Kraken-OUT).  The new sample for Miss Yvonne was also processed using `run_Kracken2_Bracken-FASTQ-PE.py` (with the earlier version [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/run_Kracken2_Bracken-FASTQ-PE.py)).
 
+Ancestry analysis with part of publicly available cat SNP chip data was performed based upon scripts [saved here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip).
+
 ## Additional Files
 
 `create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl` - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads for Miss Yvonne (and the code was modified to keep that information).
