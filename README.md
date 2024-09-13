@@ -48,5 +48,5 @@ An earlier heatmap (also including human samples) is available [here](https://gi
 
 An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).
 
-Ancestry analysis with part of publicly available cat SNP chip data was performed based upon scripts [saved here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip).  This starts with `create_GATK_gVCF.sh` (for a specific reference), and this does **not** use the provided gVCF from *Basepaws*.
+**Broad ancestry** analysis with part of publicly available cat SNP chip data was performed based upon scripts [saved here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip).  This starts with `create_GATK_gVCF.sh` (for a specific reference), and this does **not** use the provided gVCF from *Basepaws*.
 
