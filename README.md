@@ -5,16 +5,16 @@ A [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencin
 ## Raw Data from Basepaws
 
 **Interleaved FASTQ #1 (*Run 317, Lane 1*):** [AC.GJ.95-31220913500144-LP.1857.H11-L1.R317-WGS.fastq.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/AC.GJ.95-31220913500144-LP.1857.H11-L1.R317-WGS.fastq.gz)
- - Also available from [precisionFDA]()
+ - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVf1J805PZb38VJK1y69f5Z-2)
 
 **Interleaved FASTQ #2 (*Run 317, Lane 8*):** [AC.GJ.95-31220913500144-SP.441.A6-L8.R317-WGS.fastq.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/AC.GJ.95-31220913500144-SP.441.A6-L8.R317-WGS.fastq.gz)
- - Also available from [precisionFDA]()
+ - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVbVp80xxvXVk3k5yy8G3yz-2)
 
 **Provided gVCF:** [missyvonne.gvcf.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz)
- - Also available from [precisionFDA]()
+ - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVf1f80bfGGXQ31PygFb6jB-2)
 
 **Index for Provided gVCF:** [missyvonne.gvcf.gz.tbi](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz.tbi)
- - Also available from [precisionFDA]()
+ - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVf1f0007qFQ4Kgkgq4BKyy-2)
 
 ## Processed Intermediate Files
 
