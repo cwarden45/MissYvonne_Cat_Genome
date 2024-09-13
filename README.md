@@ -18,9 +18,9 @@ A [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencin
 
 ## Processed Intermediate Files
 
-**Combined Forward (*R1*) Read:** []()
+**Combined Forward (*R1*) Read:** [Basepaws_MissYvonne_R1.fastq.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne_R1.fastq.gz)
 
-**Combined Reverse (*R2*) Read:** []()
+**Combined Reverse (*R2*) Read:** [Basepaws_MissYvonne_R2.fastq.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne_R2.fastq.gz)
 
 The *fastp*-trimmed reads have not directly been uploaded.  However, the output *reports* (.html and .json) are uploaded in this repository.
 
