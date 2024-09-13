@@ -22,9 +22,7 @@ A [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencin
 
 **Combined Reverse (*R2*) Read:** []()
 
-The *fastp*-trimmed reads have not directly been uploaded.  However, the output *reports* are uploaded in this repository.
-
-***fastp* HTML Report:** []()
+The *fastp*-trimmed reads have not directly been uploaded.  However, the output *reports* (.html and .json) are uploaded in this repository.
 
 Similar files for *fastp* for Bastu (as well as for human reads for myself) can be found [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results).  Files matching Miss Yvonne's data were created using `run_fastp-AltParam2.sh`.
 
