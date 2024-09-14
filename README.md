@@ -40,6 +40,10 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 ***Kraken2* Classification Files (folder) :** [Kraken-OUT](https://github.com/cwarden45/MissYvonne_Cat_Genome/tree/main/Kraken-OUT)
 
+Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat8*), an alignment to *felCat9* to check the alignments at a site of interest for a variant was also created and uploaded to the location below:
+
+**Alignment File (only aligned to *felCat9* cat genome) :**
+
 ## Additional Files
 
 `create_PairedEnd_R1_and_R2--WITH_STARTING_LIBRARY_INFO.pl` - script to convert provided reads to paried in format.  Unlike the [second WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) for Bastu, there is library information that was kept in the interleaved reads for Miss Yvonne (and the code was modified to keep that information).
