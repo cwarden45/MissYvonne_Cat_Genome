@@ -60,7 +60,7 @@ An earlier heatmap (with only bacterial alignments) is available [here](https://
 
 `create_BWA-MEM_table-NORMALIZE_KRAKEN2_BRAKEN.R` was used to create a heatmap to visualize reads along with the data from Bastu (for the **custom BWA-MEM** reference):
 
-![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
+![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n3_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
 
 An earlier heatmap (also including human samples) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/n6_Oral_Bowtie2-heatmap.PNG)
 
