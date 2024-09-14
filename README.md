@@ -79,7 +79,7 @@ Likewise, the exact *align_BWA_MEM.py* script has been uploaded in [this reposit
 
 There was not a reference set of *Turkish Van* cats, which may share some traits with Miss Yvonne.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
 
-So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.
+So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
 
 This is different than the [uploaded PDF file]() that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).
 
