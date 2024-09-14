@@ -64,8 +64,8 @@ An earlier heatmap (with only bacterial alignments) is available [here](https://
 BAM=felCat8.gatk.bam
 gVCF=felCat8.gatk.gVCF
 gVCF2=felCat8.gatk.flagged.gVCF
-REF=felCat8_Ref/felCat8.fa
-DICT=felCat8_Ref/felCat8.dict
+REF=../../felCat8_Ref/felCat8.fa
+DICT=../../felCat8_Ref/felCat8.dict
 
 java -jar -Xmx6g /opt/picard-tools-2.5.0/picard.jar CreateSequenceDictionary R=$REF O=$DICT
 
