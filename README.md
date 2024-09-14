@@ -38,7 +38,7 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 *Kraken2* output files (**after** *fastp* trmming) for 2 libraries for my cat (Bastu) can be found [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Kraken-OUT).  The new sample for Miss Yvonne was also processed using `run_Kracken2_Bracken-FASTQ-PE.py` (with the earlier version [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/run_Kracken2_Bracken-FASTQ-PE.py)), and those results are saved within the following folder in this repository:
 
-
+***Kraken2* Classification Files (folder) : ** [Kraken-OUT](https://github.com/cwarden45/MissYvonne_Cat_Genome/tree/main/Kraken-OUT)
 
 ## Additional Files
 
