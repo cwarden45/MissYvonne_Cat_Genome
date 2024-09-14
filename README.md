@@ -13,7 +13,7 @@ A [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencin
 **Provided gVCF:** [missyvonne.gvcf.gz](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz)
  - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVf1f80bfGGXQ31PygFb6jB-2)
 
-**Index for Provided gVCF:** [missyvonne.gvcf.gz.tbi](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz.tbi)
+***Index* for Provided gVCF:** [missyvonne.gvcf.gz.tbi](https://storage.googleapis.com/miss-yvonne-cat-genome/missyvonne.gvcf.gz.tbi)
  - Also available in [precisionFDA](https://precision.fda.gov/home/files/file-GqVf1f0007qFQ4Kgkgq4BKyy-2)
 
 ## Processed Intermediate Files
@@ -28,7 +28,7 @@ Similar files for *fastp* for Bastu (as well as for human reads for myself) can 
 
 **Filtered .bam Alignment File (only for bacterial and viral sequences) :** [Basepaws_MissYvonne.bacteria.bam](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne.bacteria.bam)
 
-**Index for Filtered .bam Alignment File (only for bacterial and viral sequences) :** [Basepaws_MissYvonne.bacteria.bam.bai](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne.bacteria.bam.bai)
+***Index* for Filtered .bam Alignment File (only for bacterial and viral sequences) :** [Basepaws_MissYvonne.bacteria.bam.bai](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne.bacteria.bam.bai)
 
 **Bacterial and Viral Quantification using `samtools idxstats` :** [Basepaws_MissYvonne_idxstats.txt](https://storage.googleapis.com/miss-yvonne-cat-genome/Basepaws_MissYvonne_idxstats.txt)
 
@@ -44,7 +44,7 @@ Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat
 
 **Alignment File (only aligned to *felCat9* cat genome) :**
 
-**Index for Alignment File (only aligned to *felCat9* cat genome) :**
+***Index* for Alignment File (only aligned to *felCat9* cat genome) :**
 
 ## Additional Files
 
