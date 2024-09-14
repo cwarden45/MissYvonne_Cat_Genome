@@ -52,7 +52,7 @@ Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat
 
 `combine_reads.sh` - script used to combine reads from 2 libraries (still separated for forward *R1* reads and reverse *R2* reads).
 
-`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu (for ***Kraken2* classifications**):
+`create_Kracken2_Bracken_table-MULTI_CAT.R` was used to create a heatmap to visualize reads along with the data from Bastu (for ***Kraken2* classifications**):
 
 ![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Kraken2 assignments")
 
