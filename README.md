@@ -77,3 +77,9 @@ java -jar -Xmx6g /opt/picard-tools-2.5.0/picard.jar CreateSequenceDictionary R=$
 
 Likewise, the exact *align_BWA_MEM.py* script has been uploaded in this repository.
 
+There was not a reference set of *Turkish Van* cats.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
+
+So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).
+
+This is different than the uploaded PDF file that otherwise matches the formatting used for [Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).
+
