@@ -79,8 +79,8 @@ DICT=../../felCat8_Ref/felCat8.dict
 
 java -jar -Xmx6g /opt/picard-tools-2.5.0/picard.jar CreateSequenceDictionary R=$REF O=$DICT
 
-/opt/gatk-4.1.2.0/gatk --java-options -Xmx6g HaplotypeCaller --input $BAM --reference $REF --output $gVCF --dont-use-soft-clipped-bases true --emit-ref-confidence GVCF
-/opt/gatk-4.1.2.0/gatk --java-options -Xmx6g VariantFiltration --variant $gVCF --output $gVCF2 -window 35 -cluster 3 -filter-name QD -filter "QD < 2.0" -filter-name FS -filter "FS > 30.0"
+/opt/gatk-4.4.0.0/gatk --java-options -Xmx6g HaplotypeCaller --input $BAM --reference $REF --output $gVCF --dont-use-soft-clipped-bases true --emit-ref-confidence GVCF
+/opt/gatk-4.4.0.0/gatk --java-options -Xmx6g VariantFiltration --variant $gVCF --output $gVCF2 -window 35 -cluster 3 -filter-name QD -filter "QD < 2.0" -filter-name FS -filter "FS > 30.0"
 ```
 
 Likewise, the exact *align_BWA_MEM.py* script has been uploaded in [this repository](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/align_BWA_MEM.py).  Hopefully, the remaining steps can be followed from the repository for Bastu.  Any files that are only related to the public SNP chip data already exist, so I did not have to re-run those steps for Miss Yvonne.
