@@ -1,0 +1,4 @@
+Sample	Classification_Rate
+Basepaws_MissYvonne	0.4
+Basepaws_WGS1	24.39
+Basepaws_WGS2	13.19
