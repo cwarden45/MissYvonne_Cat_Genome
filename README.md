@@ -56,7 +56,7 @@ Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat
 
 ![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Kraken2 assignments")
 
-An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).
+An earlier heatmap (with only bacterial alignments) is available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG).  Both have [heatmap.3.R](https://github.com/obigriffith/biostar-tutorials/blob/master/Heatmaps/heatmap.3.R) as a dependency.
 
 `create_BWA-MEM_table-NORMALIZE_KRAKEN2_BRAKEN.R` was used to create a heatmap to visualize reads along with the data from Bastu (for the **custom BWA-MEM** reference):
 
