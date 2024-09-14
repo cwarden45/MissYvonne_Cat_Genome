@@ -52,7 +52,7 @@ Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat
 
 `combine_reads.sh` - script used to combine reads from 2 libraries (still separated for forward *R1* reads and reverse *R2* reads).
 
-`ScriptX.R` was used to create a heatmap to visualize reads along with the data from Bastu (for the **custom BWA-MEM** reference):
+`create_BWA-MEM_table-NORMALIZE_KRAKEN2_BRAKEN.R` was used to create a heatmap to visualize reads along with the data from Bastu (for the **custom BWA-MEM** reference):
 
 ![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
 
