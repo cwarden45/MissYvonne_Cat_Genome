@@ -102,3 +102,5 @@ Based upon results from [multiple companies](https://github.com/cwarden45/Bastu_
 In contrast, Miss Yvonne does have long hair.
 
 Miss Yvonne does not have the same variant as Bastu.  However, based upon the alignment, it looks like she has an adjacent T>G variant (which is a change to *orange* color, versus a drop in coverage due to one copy having a deletion).
+
+Perhaps interestingly, that position is not one of the positions reported as causing long hair from *FGF5* in the additional *Wisdom Panel* information.
