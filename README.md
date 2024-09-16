@@ -115,5 +115,5 @@ Based upon the ***Wisdom Panel* variant names**, there are names that I may gues
 
 **M4** = *"Long Hair (Discovered in many breeds)"* --> **Wisdom Panel** chrB1:142,165,952 (T>G) ?
 
-However, I am a bit confused because **Bastu's variant** (which according to the *UC-Davis VGL* is *M3*) has a coordinate that is a better match for *"Long Hair (Discovered in many breeds)"*.  The variant itself is clearly a **deletion**.
+However, I am a bit confused because **Bastu's variant** (which according to the *UC-Davis VGL* is *M3*) has a coordinate that is a better match for *"Long Hair (Discovered in many breeds)"*.  Bastu's variant itself is clearly a **deletion**, and it would be off by one for that coordinate (but it would be exactly right for a *T>G* variant at chrB1:142,165,952).
 
