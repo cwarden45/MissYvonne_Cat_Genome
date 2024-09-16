@@ -91,3 +91,14 @@ So, I further modified the script to plot a subset of breeds (the broad categori
 
 This is different than the [uploaded PDF file]() that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).
 
+## Checking Long-Hair Variants in *FGF5* (for *felCat9* Alignment)
+
+After the reads are aligned to a specific reference, those alignment can be visualized.  There are muliple valid ways to do this, but IGV (*Integrative Genomics Viewer*) will be used to show aligments for the **second Whole Genome Sequencing library for Bastu** (my cat) and the **new Whole Genome Sequencing library for Miss Yvonne**.
+
+Based upon results from [multiple companies](https://github.com/cwarden45/Bastu_Cat_Genome) / organizations, Bastu is a carrier for a long hair-variant.  However, because she only has one copy, Bastu does not have long hair.  Based upon the information for Bastu's *Wisdom Panel* results, the *felCat9* coordinate for this variant is *chrB1:142,165,953 *.  You can see the alignments for this position below:
+
+![two-cat alignment, Bastu variant](IGV-M3.PNG "M3 variant visualization")
+
+In contrast, Miss Yvonne does have long hair.
+
+Miss Yvonne does not have the same variant as Bastu.  However, based upon the alignment, it looks like she has an adjacent T>G variant.
