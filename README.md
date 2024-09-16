@@ -103,4 +103,13 @@ In contrast, Miss Yvonne does have long hair.
 
 Miss Yvonne does not have the same variant as Bastu.  However, based upon the alignment, it looks like she has an adjacent T>G variant (which is a change to *orange* color, versus a drop in coverage due to one copy having a deletion).
 
-Perhaps interestingly, that position is not one of the positions reported as causing long hair from *FGF5* in the additional *Wisdom Panel* information.
+Perhaps interestingly, that position is **not** one of the positions reported as causing long hair from *FGF5* in the additional *Wisdom Panel* information.
+
+Based upon the ***Wisdom Panel* variant names**, I would guess (or, for Bastu, know) that the mapping of names should be as follows for the [UC-Davis VGL](https://vgl.ucdavis.edu/test/long-hair-cat) long-hair variants:
+
+**M1** = *"Long Hair (Discovered in the Ragdoll)"*
+**M2** = *"Long Hair (Discovered in the Norwegian Forest Cat)"*
+**M3** =  *"Long Hair (Discovered in the Ragdoll and Maine Coon)"* --> **Bastu's variant**
+**M4** = *"Long Hair (Discovered in many breeds)"*
+
+
