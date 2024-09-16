@@ -105,14 +105,15 @@ Miss Yvonne does not have the same variant as Bastu.  However, based upon the al
 
 Perhaps interestingly, that position is **not** one of the positions reported as causing long hair from *FGF5* in the additional *Wisdom Panel* information.
 
-Based upon the ***Wisdom Panel* variant names**, I would guess (or, for Bastu, know) that the mapping of names should be as follows for the [UC-Davis VGL](https://vgl.ucdavis.edu/test/long-hair-cat) long-hair variants:
+Based upon the ***Wisdom Panel* variant names**, there are names that I may guess should match to the [UC-Davis VGL](https://vgl.ucdavis.edu/test/long-hair-cat) long-hair variants:
 
-**M1** = *"Long Hair (Discovered in the Ragdoll)"*
+**M1** = *"Long Hair (Discovered in the Ragdoll)"* --> **Wisdom Panel** chrB1:142,185,646 (insertion)
 
-**M2** = *"Long Hair (Discovered in the Norwegian Forest Cat)"*
+**M2** = *"Long Hair (Discovered in the Norwegian Forest Cat)"* --> **Wisdom Panel** chrB1:142,177,919 (G>A)
 
-**M3** =  *"Long Hair (Discovered in the Ragdoll and Maine Coon)"* --> **Bastu's variant**
+**M3** =  *"Long Hair (Discovered in the Ragdoll and Maine Coon)"* --> **Wisdom Panel** chrB1:142,185,528 (deletion)
 
-**M4** = *"Long Hair (Discovered in many breeds)"*
+**M4** = *"Long Hair (Discovered in many breeds)"* --> **Wisdom Panel** chrB1:142,165,952 (T>G)
 
+However, I am a bit confused because **Bastu's variant** (which according to the *UC-Davis VGL* is *M3*) has a coordinate that is a better match for *"Long Hair (Discovered in many breeds)"*.  The variant itself is clearly a **deletion**.
 
