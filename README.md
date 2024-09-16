@@ -108,8 +108,11 @@ Perhaps interestingly, that position is **not** one of the positions reported as
 Based upon the ***Wisdom Panel* variant names**, I would guess (or, for Bastu, know) that the mapping of names should be as follows for the [UC-Davis VGL](https://vgl.ucdavis.edu/test/long-hair-cat) long-hair variants:
 
 **M1** = *"Long Hair (Discovered in the Ragdoll)"*
+
 **M2** = *"Long Hair (Discovered in the Norwegian Forest Cat)"*
+
 **M3** =  *"Long Hair (Discovered in the Ragdoll and Maine Coon)"* --> **Bastu's variant**
+
 **M4** = *"Long Hair (Discovered in many breeds)"*
 
 
