@@ -106,7 +106,7 @@ For example, **Miss Yvonne may have *less* clear Western ancestry than Bastu**. 
 
 After the reads are aligned to a specific reference, those alignment can be visualized.  There are multiple valid ways to do this, but [IGV](https://igv.org/doc/desktop/) (*Integrative Genomics Viewer*) will be used to show aligments for the **second Whole Genome Sequencing library for Bastu** (my cat) and the **new Whole Genome Sequencing library for Miss Yvonne**.
 
-Based upon results from [multiple companies /organizations](https://github.com/cwarden45/Bastu_Cat_Genome), Bastu is a carrier for a long hair-variant.  However, because she only has one copy, Bastu does not have long hair.  Based upon [earlier analysis](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Health_Trait_Markers), the *felCat9* coordinate for this variant is *chrB1:142,165,953 *.  You can see the alignments for this position below:
+Based upon results from [multiple companies /organizations](https://github.com/cwarden45/Bastu_Cat_Genome), Bastu is a carrier for a long hair-variant.  However, because she only has one copy, Bastu does not have long hair.  Based upon [earlier analysis](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Health_Trait_Markers), the *felCat9* coordinate for this variant is *chrB1:142,165,953*.  You can see the alignments for this position below:
 
 ![two-cat alignment, Bastu variant](IGV-M3.PNG "M3 variant visualization")
 
