@@ -98,7 +98,7 @@ So, I further modified the script to plot a subset of breeds (the broad categori
 
 ![Additional Ancestry PCA Plot](ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG "Add Color for Maine Coon and Siberian Points")
 
-This is different than the [uploaded PDF file]() that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
+This is different than the [uploaded PDF file](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites--MissYvonne.pdf) that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
 
 For example, Miss Yvonne may have **less** clear Western ancestry than Bastu.  However, I am not sure it is accruate to say Miss Yvonne has more clear Eastern Ancestry than Bastu.  I am not sure if an appropriate solution could be to say that Miss Yvonne may have a larger "polycat" contribution than Bastu and/or if Miss Yvonne may have ancestry not clearly represented in the reference set (or something else).
 
