@@ -44,7 +44,7 @@ Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat
 
 **Alignment File (only aligned to *felCat9* cat genome) :**
 
-***Index* for Alignment File (only aligned to *felCat9* cat genome) :**
+***Index* for Alignment File (only aligned to *felCat9* cat genome) :** [felCat9.gatk.bai](https://storage.googleapis.com/miss-yvonne-cat-genome/felCat9.gatk.bai)
 
 ## Additional Files
 
