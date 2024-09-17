@@ -90,9 +90,13 @@ While not explictly mentioned in the step-by-step instructions, the [convert_PED
 
 **Selected intermediate files (and scripts) for analysis of the data for Miss Yvonne** have also been saved in the following folder : [ADMIXTURE+RFMix_ReAnalysis_with_Gandolfi-SNP-chip]()
 
-There was not a reference set of *Turkish Van* cats, which may share some traits with Miss Yvonne.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
+The "Eastern" and "Western" estimates come from the **"Q"** matrix/table, using the annotations from the public cat SNP chip data to determine which component best fits which ancestry.
+
+Additionally, there was not a reference set of *Turkish Van* cats, which may share some traits with Miss Yvonne.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
 
 So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
+
+![Additional Ancestry PCA Plot](ADMIXTURE+RFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG "Add Color for Maine Coon and Siberian Points")
 
 This is different than the [uploaded PDF file](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/MissYvonne_WGS-240715.pdf) that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
 
