@@ -42,7 +42,7 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat8*), an alignment to ***felCat9*** to check the alignments at a site of interest for a variant was also created and uploaded to the location below:
 
-**Alignment File (only aligned to *felCat9* cat genome) :**
+**Alignment File (only aligned to *felCat9* cat genome) :** [felCat9.gatk.bam](https://storage.googleapis.com/miss-yvonne-cat-genome/felCat9.gatk.bam)
 
 ***Index* for Alignment File (only aligned to *felCat9* cat genome) :** [felCat9.gatk.bai](https://storage.googleapis.com/miss-yvonne-cat-genome/felCat9.gatk.bai)
 
