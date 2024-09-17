@@ -94,11 +94,11 @@ The "Eastern" and "Western" estimates come from the **"Q"** matrix/table, using 
 
 Additionally, there was not a reference set of *Turkish Van* cats, which may share some traits with Miss Yvonne.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
 
-So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
+So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
 
-![Additional Ancestry PCA Plot](ADMIXTURE+RFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG "Add Color for Maine Coon and Siberian Points")
+![Additional Ancestry PCA Plot](ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG "Add Color for Maine Coon and Siberian Points")
 
-This is different than the [uploaded PDF file](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/MissYvonne_WGS-240715.pdf) that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
+This is different than the [uploaded PDF file]() that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
 
 For example, Miss Yvonne may have **less** clear Western ancestry than Bastu.  However, I am not sure it is accruate to say Miss Yvonne has more clear Eastern Ancestry than Bastu.  I am not sure if an appropriate solution could be to say that Miss Yvonne may have a larger "polycat" contribution than Bastu and/or if Miss Yvonne may have ancestry not clearly represented in the reference set (or something else).
 
