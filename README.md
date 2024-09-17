@@ -100,6 +100,8 @@ So, I further modified the script to plot a subset of breeds (the broad categori
 
 This is different than the [uploaded PDF file](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/MissYvonne_WGS-240715.pdf) that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
 
+For example, Miss Yvonne may have **less** clear Western ancestry than Bastu.  However, I am not sure it is accruate to say Miss Yvonne has more clear Eastern Ancestry than Bastu.  I am not sure if an appropriate solution could be to say that Miss Yvonne may have a larger "polycat" contribution than Bastu.
+
 ## Checking Long-Hair Variants in *FGF5* (for *felCat9* Alignment)
 
 After the reads are aligned to a specific reference, those alignment can be visualized.  There are multiple valid ways to do this, but [IGV](https://igv.org/doc/desktop/) (*Integrative Genomics Viewer*) will be used to show aligments for the **second Whole Genome Sequencing library for Bastu** (my cat) and the **new Whole Genome Sequencing library for Miss Yvonne**.
