@@ -96,7 +96,7 @@ Additionally, there was not a reference set of *Turkish Van* cats, which may sha
 
 So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
 
-![Additional Ancestry PCA Plot](ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG "Add Color for Maine Coon and Siberian Points")
+![Additional Ancestry PCA Plot]([ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.PNG](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon_and_Siberian.png) "Add Color for Maine Coon and Siberian Points")
 
 This is different than the [uploaded PDF file](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/ADMIXTURE_Re-Analysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites--MissYvonne.pdf) that otherwise matches the formatting used [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/raw_basepaws_reanalysis_20k_sites.pdf).  
 
