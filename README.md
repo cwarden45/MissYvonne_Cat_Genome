@@ -40,7 +40,7 @@ Similar output files (for *BWA-MEM* with `samtools idxstats` quantification) for
 
 ***Kraken2* Classification Files (folder) :** [Kraken-OUT](https://github.com/cwarden45/MissYvonne_Cat_Genome/tree/main/Kraken-OUT)
 
-Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat8*), an alignment to ***felCat9*** to check the alignments at a site of interest for a variant was also created and uploaded to the location below:
+Using a strategy otherwise similar for the ancestry analysis (aligned to *felCat8*), an alignment to ***felCat9*** to check the alignments at a site of interest for a variant was also created and uploaded to the location below (specifically, using [align_BWA_MEM-felCat9.py](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/align_BWA_MEM-felCat9.py)):
 
 **Alignment File (only aligned to *felCat9* cat genome) :** [felCat9.gatk.bam](https://storage.googleapis.com/miss-yvonne-cat-genome/felCat9.gatk.bam)
 
