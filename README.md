@@ -85,6 +85,10 @@ DICT=../../felCat8_Ref/felCat8.dict
 
 Likewise, the exact *align_BWA_MEM.py* script has been uploaded in [this repository](https://github.com/cwarden45/MissYvonne_Cat_Genome/blob/main/align_BWA_MEM.py).  Hopefully, the remaining steps can be followed from the repository for Bastu.  Any files that are only related to the public SNP chip data already exist, so I did not have to re-run those steps for Miss Yvonne.
 
+While not explictly mentioned in the step-by-step instructions, the [convert_PED_to_POP.pl](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/convert_PED_to_POP.pl) file was needed to run supervised ADMIXTURE analysis.
+
+**Selected intermediate files (and scripts) for analysis of the data for Miss Yvonne** have also been saved in the following folder : [ADMIXTURE+RFMix_ReAnalysis_with_Gandolfi-SNP-chip]()
+
 There was not a reference set of *Turkish Van* cats, which may share some traits with Miss Yvonne.  However, Miss Yvonne has long hair and there is currently some discussion about the details for her long-haired result.
 
 So, I further modified the script to plot a subset of breeds (the broad categories and *Maine Coon*) [for Bastu](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/ADMIXTURE%2BRFMix_ReAnalysis_with_Gandolfi-SNP-chip/PCA_ancestry_3groups-plus-Maine-Coon.png) to also show a little more clearly the *Siberian* points in the PCA plot (for Miss Yvonne).  Bastu carries a long-hair variant, but she does not have long-hair.  In contrast, Miss Yvonne has long hair, and she is expected to have two-long hair variants.
