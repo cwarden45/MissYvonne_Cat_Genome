@@ -112,5 +112,3 @@ In contrast, Miss Yvonne does have long hair.
 
 Miss Yvonne does not have the same variant as Bastu.  However, based upon the alignment, it looks like she has an adjacent T>G variant (which is a change to *orange* color, versus a drop in coverage due to one copy having a deletion).
 
-However, I am a bit confused because **Bastu's variant** (which according to the *UC-Davis VGL* is *M3*) has a coordinate that is a better match for *"Long Hair (Discovered in many breeds)"*.  Bastu's variant itself is clearly a **deletion**, and it would be off by one for that coordinate (but it would be exactly right for a *T>G* variant at chrB1:142,165,952).
-
